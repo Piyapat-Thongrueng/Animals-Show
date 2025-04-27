@@ -1,4 +1,4 @@
-**Animal Show Project**
+**Animal Gallery Project**
 
 This is basic web application showing randomed animals' pictures by clicking the button. This application has 'Like' feature that user can click at the heart at the right bottom of each picture. Everytime user click the heart, it will expand everytime user click.
 
